@@ -1,2 +1,2 @@
 # SQLProjects
-In this project I utilized SQL querying to answer interesting questions about international debt using data from The World Bank.
+This repository contains the projects I have done using SQL.
